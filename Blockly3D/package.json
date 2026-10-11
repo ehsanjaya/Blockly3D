@@ -1,0 +1,15 @@
+{
+  "name": "block3d-live-collaboration",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node collaboration/server.js"
+  },
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
